@@ -1,0 +1,60 @@
+	
+	.pre_carga{
+		position: fixed;
+		left: 0px;
+		top: 0px;
+		right: 0;
+		width: 100%;
+		bottom: 0;
+		height: 100%;
+		z-index: 9999;
+		background: url('../img/gif/cargando.gif') 50% 50% no-repeat rgb(249,249,249);
+		opacity: .9;
+	}
+	
+	.li_drown{
+		color: #fff;
+		background-color: #6f6f6f;
+	}
+	
+	.mayus{
+		text-transform: uppercase;
+	}
+	
+	.minus{
+		text-transform: lowercase;
+	}
+	
+	.primary_letter:first-letter {
+		text-transform: uppercase;
+	}
+
+	caption, label {
+		font-size: 1.3em !important;
+	}
+
+	.btn {
+		border-radius: 6px !important;
+	}
+
+	.btn-primary {
+		font-size: 1.1em !important;
+	}
+
+	b{
+		font-family: verdana !important;
+	}
+
+	.bg-success {
+		background-color: #4cb91f !important;
+	}
+
+	.bg-danger {
+		background-color: #e72b2b !important;
+	}
+
+	.bg-warning {
+		background-color: #ffc107 !important;
+	}
+
+	

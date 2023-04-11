@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+	<link href="static/styles.css" rel="stylesheet" type="text/css"/><title>Alcaldía de Santiago de Cali</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="keywords" content="maurice armitage, alcalde de cali, alcaldía de cali">
+<meta property="og:image" content="https://www.cali.gov.co/info/principal/media/galeria200991.jpg">
+<meta property="twitter:image" content="https://www.cali.gov.co/info/principal/media/galeria200991.jpg">
+<meta property="og:title" content="Alcaldía de Santiago de Cali">
+<meta property="twitter:title" content="Alcaldía de Santiago de Cali">
+<meta name="description" content="Alcaldía de Santiago de Cali">
+<meta property="og:description" content="Alcaldía de Santiago de Cali">
+<meta property="twitter:description" content="Alcaldía de Santiago de Cali">
+<meta property="og:url" content="www.cali.gov.co/">
+<meta property="twitter:url" content="www.cali.gov.co/">
+<meta property="og:type" content="website"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="AlcaldiaDeCali">
+<meta name="Generator" content="nexura">
+<meta name="Robots" content="all">
+
+<link rel="shortcut icon" href="https://www.cali.gov.co/info/principal/web/principal/img/favicon.ico">
+<link href="https://www.cali.gov.co/media/plugins/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+<link href="https://www.cali.gov.co/media/plugins/fontawesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="https://www.cali.gov.co/media/plugins/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+<link href="https://www.cali.gov.co/media/css/user.min.css" rel="stylesheet" type="text/css" />
+<link href="https://www.cali.gov.co/info/principal/web/principal/css/user.min.css" rel="stylesheet" type="text/css" />
+<link href="https://www.cali.gov.co/mod/Bloques/css/bloqueMegamenu.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="https://www.cali.gov.co/media/plugins/jquery/3.1.0/jquery-3.1.0.min.js"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MXQ9SCL');</script>
+<!-- End Google Tag Manager -->
+            </head>
+<body class="dPrincipal">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe title="tagmanager" src="https://www.googletagmanager.com/ns.html?id=GTM-MXQ9SCL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header id="navbar">
+	
+        <div class="tabla1 tablaBloque205784 collapse buscadorResponsive "
+             style=".">
+                        <div class="contenido1">
+                <form action="/buscar/" class="form-horizontal" method="get">
+        <fieldset>
+<legend>Buscador Principal</legend>
+            <label class="sr-only" for="search-boxR">Buscar...</label>
+            <div class="col-md-12">
+                <div class="input-group">
+                    <input id="search-boxR" class="form-control search-mod" placeholder="Buscar..." name="q" value="" type="search">
+                    <span class="input-group-btn">
+                        <button class="btn btn-primary search-btn-mod" type="submit">
+                        	<span class="fa fa-search"></span><span class="hidden">Buscar</span>
+                        </button>
+                    </span>
+                </div>
+            </div>
+        </fieldset>
+    </form>            </div>
+        </div>
+
+        <div class="nxBlock nxBlock206057 nxBlockDesign1 nxBlockConfigTools nxBlockConfigTools nxBlockConfigTools  "
+     style=".">
+    
+    <div class=" defaultConfigTools blockContent">
+        
+<div class="contentLinkToolsHidden">
+	<ul class="linkToolsHidden">
+									<li><a title="Ir al contenido principal." href="#main-home" class="linkTools">Ir al contenido principal</a></li>
+																										</ul>
+</div>
+
+<div id="toolsConfigContent" class="collapse">
+    <div class="container">
+    	<div class="row">
+    	
+			<div  class="col-sm-8 col-md-8 contentTools"  >
+				<div class="contentBtnConfigTools">
+					<button type="button" class="btn btn-default btnConfigTools" data-type="configTools" data-typedes="default">Configuraci&oacute;n por defecto</button>
+					<button type="button" class="btn btn-default btnConfigTools" data-type="configTools" data-typedes="highContrast">Alto contraste</button>
+					<button type="button" class="btn btn-default btnConfigTools" data-type="configTools" data-typedes="textOnly">Solo texto</button>
+				</div>
+				
+				<div class="contentIconConfigFont">
+					<a href="#" class="btnConfigTools" title="Habilitar tama&ntilde;o de fuente menor" data-type="configFont" data-typedes="lg">
+						<span class="hide">Tama&ntilde;o de fuente menor</span>
+						<span class="fa fa-font fa-lg" aria-hidden="true"></span>
+					</a>
+			    	<a href="#" class="btnConfigTools" title="Habilitar tama&ntilde;o de fuente predeterminado" data-type="configFont" data-typedes="2x">
+						<span class="hide">Tama&ntilde;o de fuente predeterminado</span>
+			    		<span class="fa fa-font fa-2x" aria-hidden="true"></span>
+			    	</a>
+			    	<a href="#" class="btnConfigTools" title="Habilitar tama&ntilde;o de fuente m&aacute;s grande" data-type="configFont" data-typedes="3x">
+			    		<span class="hide">Tama&ntilde;o de letra m&aacute;s grande</span>
+			    		<span class="fa fa-font fa-3x" aria-hidden="true"></span>
+			    	</a>
+				</div>
+		    </div>
+
+		    		    <div class="col-sm-4 col-md-4 contentConfig">
+
+		    			    				    					    				<a href="/mapa-del-sitio" title="Ir a Mapa del sitio">Mapa del sitio <span class="fa fa-sitemap" aria-hidden="true"></span></a>
+		    					    				    					    				    					    				    	
+			    				    <div class="dropdown">
+					  <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Idiomas
+					  <span class="caret"></span></button>
+					  <ul class="dropdown-menu">
+					  				    								    		<li><a href="/idioma.php?idioma=es">Espa&ntilde;ol</a></li>
+			    						    					    								    		<li><a href="/idioma.php?idioma=en">Ingl&eacute;s</a></li>
+			    						    					    								    		<li><a href="/idioma.php?idioma=fr">Franc&eacute;s</a></li>
+			    						    					    								    		<li><a href="/idioma.php?idioma=it">Italiano </a></li>
+			    						    					    								    		<li><a href="/idioma.php?idioma=ja">Japon&eacute;s</a></li>
+			    						    					    								    		<li><a href="/idioma.php?idioma=pt">Portugu&eacute;s</a></li>
+			    						    					    								    		<li><a href="/idioma.php?idioma=de">Alem&aacute;n</a></li>
+			    						    							  </ul>
+					</div>
+			    		    </div>
+		    		    
+    	</div>
+    </div>
+</div>
+
+	<script type="text/javascript">
+	    function googleTranslateElementInit() {new google.translate.TranslateElement({ pageLanguage: 'es'}, 'google_translate_element');
+
+	    }
+	</script>
+	<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+
+<script type="text/javascript">
+
+	function switchConfigTools(typeDesc){
+		$( "body" ).removeClass( "configDefaultTools configHighContrastTools configTextOnlyTools" );
+		$( '[data-type="configTools"]' ).removeClass( "active" );
+
+			switch(typeDesc){
+				case 'default':
+						$('[data-typedes="default"]').addClass("active");
+						$( "body" ).addClass("configDefaultTools");
+					break;
+				case 'highContrast':
+						$('[data-typedes="highContrast"]').addClass("active");
+						$( "body" ).addClass("configHighContrastTools");
+					break;
+				case 'textOnly':
+						$('[data-typedes="textOnly"]').addClass("active");
+						$( "body" ).addClass("configTextOnlyTools");
+					break;
+			}
+	}
+
+	function switchConfigFont(typeDesc){
+		$( "body" ).removeClass( "faFontLg faFont2x faFont3x" );
+		$( '[data-type="configFont"]' ).removeClass( "active" );
+
+		switch(typeDesc){
+			case 'lg':
+					$('[data-typedes="lg"]').addClass("active");
+					$( "body" ).addClass("faFontLg");
+				break;
+			case '2x':
+					$('[data-typedes="2x"]').addClass("active");
+					$( "body" ).addClass("faFont2x");
+				break;
+			case '3x':
+					$('[data-typedes="3x"]').addClass("active");
+					$( "body" ).addClass("faFont3x");
+				break;
+		}
+	}
+
+	$(".btnConfigTools").click(function(e){
+
+		e.preventDefault();
+		var type = $(this).data("type");
+		var typeDesc = $(this).data("typedes");
+		console.log(type + " " + typeDesc);
+		document.cookie = type+"="+typeDesc+"; path=/";
+
+		if(type == "configTools"){
+			switchConfigTools(typeDesc);
+		}
+
+		if(type == "configFont"){
+			switchConfigFont(typeDesc);
+		}
+
+	});
+
+	function readCookie(name) {
+	    var nameEQ = name + "=";
+	    var ca = document.cookie.split(';');
+	    for(var i=0;i < ca.length;i++) {
+	        var c = ca[i];
+	        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	    }
+	    return null;
+	}
+
+	$(document).ready(function(){
+
+		var cookieConfigTools = readCookie('configTools');
+		var cookieConfigFont = readCookie('configFont');
+
+		if(readCookie('configTools')){
+			switchConfigTools(cookieConfigTools);
+		}
+
+		if(readCookie('configFont')){
+			switchConfigFont(cookieConfigFont);
+		}
+		
+	});
+
+</script>
+
+    </div>
+</div>
+        <div class="tabla1 tablaBloque208  "
+             style=".">
+                        <div class="contenido1">
+                <div id="headerContent" class="container">
+	<div class="row">
+		<nav class="navbar navbar-default">
+		  <div class="navbar-header">
+		    <div id="brand" class="navbar-brand">
+				<a href="/index.php" title="Ir a la página principal">
+					<div class="logo-gob"><div class='bloqueZona1  tipoDisplay'>
+			
+			
+					<img class="img-responsive " src="https://www.cali.gov.co/info/principal/media/bloque207241.png" id="bloqueImg207241" alt="Puro Corazón por Cali"/>
+				
+		</div></div>
+					<div class="logo"><div class='bloqueZona1  tipoDisplay'>
+			
+			
+					<img class="img-responsive " src="https://www.cali.gov.co/info/principal/media/bloque210342.png" id="bloqueImg210342" alt="Alcaldía de Santiago de Cali"/>
+				
+		</div></div>
+				</a>
+				<h1>Alcaldía de Santiago de Cali</h1>
+			</div>
+		  </div>
+		  <ul class="nav navbar-nav socialnetworks navbar-right ">
+		      <li class="tagline hidden-xs">
+		      	<a href="43" title="Oficina de atenci&oacute;n al ciudadano" style="padding: 0;">
+		      		<img src="/info/principal/media/galeria209680.png" alt="Oficina de atenci&oacute;n al ciudadano">
+		      	</a>
+		      </li>
+		      <li class="icon facebook hidden-xs hidden-sm">
+					<a href="https://www.facebook.com/AlcaldiaDeCali/" target="_blank" title="Facebook Alcaldía de Santiago de Cali">
+						<span class="icon fa fa-facebook"></span>
+						<span class="text">Facebook</span>
+					</a>
+				</li>
+				<li class="icon twitter hidden-xs hidden-sm">
+					<a href="https://twitter.com/alcaldiadecali"  target="_blank" title="Twitter Alcaldía de Santiago de Cali">
+						<span class="icon fa fa-twitter"></span>
+						<span class="text">Twitter</span>									
+					</a>
+				</li>
+				<li class="icon youtube hidden-xs hidden-sm">
+					<a href="https://www.youtube.com/user/AlcaldiadeCaliTV" target="_blank" title="Youtube Alcaldía de Santiago de Cali">
+						<span class="icon fa fa-youtube"></span>
+						<span class="text">Youtube</span>
+					</a>
+			  </li>
+			  <li class="icon youtube hidden-xs hidden-sm">
+					<a href="https://www.instagram.com/alcaldiadecali/" target="_blank" title="Instagram Alcaldía de Santiago de Cali">
+						<span class="icon fa fa-instagram"></span>
+						<span class="text">Instagram</span>
+					</a>
+			  </li>
+		      <li class="dropdown icon config">
+		        <a href="#" title="Alcaldía de Santiago de Cali" data-toggle='collapse' data-target='#toolsConfigContent'>
+						<span class="icon fa fa-cog"></span>
+						<span class="text">Configuración</span>
+					</a>
+		        <ul class="dropdown-menu">
+		          <li><a href="#1">Ampliar Texto</a></li>
+		          <li><a href="#2">Disminuir texto</a></li>
+		          <li><a href="#3">Alto contraste</a></li>
+		          <li class="divider"></li>
+		          <li><a href="#4">Imprimir</a></li>
+		          <li class="divider"></li>
+		          <li><a href="#5">Registrarse</a></li>
+		          <li><a href="#6">Loguearse</a></li>
+		        </ul>
+		      </li>
+		      <li class="dropdown icon config hidden-lg hidden-md">
+		        <a href="#" title="Buscador" data-toggle='collapse' data-target='.buscadorResponsive' aria-expanded='true'>
+						<span class="icon fa fa-search"></span>
+						<span class="text">Buscador</span>
+					</a>
+		        
+		      </li>
+		    </ul>
+			<div class='bloqueZona1  tipoDisplay'>
+        <!--        <div class="row-offcanvas row-offcanvas-right">-->
+        <nav class="navbar navbar-default nxBlock nxBlockMegamenu nxBlockDesign1 nxBlockMegamenu376 megamenu col-md-9 pull-right navbar-right">
+                        <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".divNxBlockMegamenu376">
+                    <span class="sr-only">Desplegar navegaci&oacute;n</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse divNxBlockMegamenu376 row">
+                                <ul class="nav navbar-nav navbar-right megamenu" >
+                                                <li id="boton376-1"  class="home ">
+                                <a href='https://www.cali.gov.co/index.php' title='Inicio'>Inicio</a>                            </li>
+                                                               <li id="boton376-2"  data-accordion="#accordion" class="dropdown dropdown-accordion ">
+                                   <a href="#"  class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" title="Cali. Acceso Rápido:1." accesskey="1">
+                                       Cali                                   </a>
+                                                                   <div class="dropdown-menu">
+                                                                        <div class="row megamenuContenedorGeneral">
+                                                                                    <div class="row megamenuContenedorPrincipal col-md-12">
+                                                <div rel='enlace'  class='col-md-4' id='accordion2_0'>
+<a class='collapseMenu' data-parent='#accordion2_0' data-toggle='collapse' data-object='megamenu_family_2subfamily_0' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>Mi ciudad</strong></a>
+ <ul data-objected='megamenu_family_2subfamily_0' class='panel-collapse' id='megamenu_family_2subfamily_0'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >Mi ciudad</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock101169 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces101169">
+                                            <a class=""  href="https://www.cali.gov.co/publicaciones/1335/nuestra_historia_santiago_de_cali_tiene_477_aos/" title="Enlace a Historia">Historia</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/226/simbolos/" title="Enlace a Símbolos">Símbolos</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/115923/mapas_div_administrativas_idesc/" title="Enlace a Mapas">Mapas</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/227/datos_de_cali_y_el_valle_del_cauca/" title="Enlace a Información geográfica">Información geográfica</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/107090/informacion-estadistica-cali/" title="Enlace a Información estadística">Información estadística</a>
+                                                <a class=""  href="https://www.cali.gov.co/galeria/" title="Enlace a Galería multimedia">Galería multimedia</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/noticias/" title="Enlace a Sala de prensa">Sala de prensa</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/148685/information-in-english/" title="Enlace a Information in English">Information in English</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div><div rel='enlace'  class='col-md-4' id='accordion2_1'>
+<a class='collapseMenu' data-parent='#accordion2_1' data-toggle='collapse' data-object='megamenu_family_2subfamily_1' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>La Entidad</strong></a>
+ <ul data-objected='megamenu_family_2subfamily_1' class='panel-collapse' id='megamenu_family_2subfamily_1'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >La Entidad</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock101196 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces101196">
+                                            <a class=""  href="https://www.cali.gov.co/publicaciones/2292/misin_y_visin_6/" title="Enlace a Misión y visión">Misión y visión</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/115075/funciones_deberes/" title="Enlace a Funciones y deberes">Funciones y deberes</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/101206/organigrama_alcaldia_de_cali/" title="Enlace a Organigrama">Organigrama</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/103223/normograma_institucional_/" title="Enlace a Normograma institucional">Normograma institucional</a>
+                                                <a class="" target="_blank" href="http://intranet2.cali.gov.co/" title="Enlace a Intranet">Intranet</a>
+                                                <a class="" target="_blank" href="https://mail.google.com/a/cali.gov.co" title="Enlace a Correo institucional">Correo institucional</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div><div rel='enlace'  class='col-md-4' id='accordion2_2'>
+<a class='collapseMenu' data-parent='#accordion2_2' data-toggle='collapse' data-object='megamenu_family_2subfamily_2' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>Planes, programas y proyectos</strong></a>
+ <ul data-objected='megamenu_family_2subfamily_2' class='panel-collapse' id='megamenu_family_2subfamily_2'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >Planes, programas y proyectos</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock101202 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces101202">
+                                            <a class=""  href="https://www.cali.gov.co/resiliencia" title="Enlace a Cali Resiliente">Cali Resiliente</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/3560/idesc/" title="Enlace a Infraestructura de datos espaciales de Santiago de Cali (IDESC)">Infraestructura de datos espaciales de Santiago de Cali (IDESC)</a>
+                                                <a class=""  href="https://www.cali.gov.co/observatorios" title="Enlace a Observatorios">Observatorios</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/112699/plan_anticorrupcion_y_de_atencion_al_ciudadano_del_municipio_de_santiago_de_cali_historico/" title="Enlace a Plan anticorrupción y de atención al ciudadano">Plan anticorrupción y de atención al ciudadano</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/114694/plan_desarrollo_municipal/" title="Enlace a Plan de desarrollo 2020 - 2023, Cali Unida por la Vida">Plan de desarrollo 2020 - 2023, Cali Unida por la Vida</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/32970/plan_de_gestin_integral_de_residuos_slidos_pgirs/" title="Enlace a Plan de gestión integral de residuos sólidos (PGIRS)">Plan de gestión integral de residuos sólidos (PGIRS)</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/106497/pot_2014_idesc/" title="Enlace a Plan de ordenamiento territorial (POT)">Plan de ordenamiento territorial (POT)</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/36776/poai-2016---2019/" title="Enlace a Plan operativo anual de inversiones (POAI)">Plan operativo anual de inversiones (POAI)</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div>                                            </div>
+                                                                                                                    </div>
+                                                                    </div>
+                                                            </li>
+                                                        <li id="boton376-3"  class=" ">
+                                <a href='https://www.cali.gov.co/publicaciones/151257/jorge-ivan-ospina-gomez/' title='Nuestro alcalde'>Nuestro alcalde</a>                            </li>
+                                                               <li id="boton376-4"  data-accordion="#accordion" class="dropdown dropdown-accordion ">
+                                   <a href="#"  class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" title="Atención al ciudadano. Acceso Rápido:2." accesskey="2">
+                                       Atención al ciudadano                                   </a>
+                                                                   <div class="dropdown-menu">
+                                                                        <div class="row megamenuContenedorGeneral">
+                                                                                    <div class="row megamenuContenedorPrincipal col-md-12">
+                                                <div rel='enlace'  class='col-md-4' id='accordion4_0'>
+<a class='collapseMenu' data-parent='#accordion4_0' data-toggle='collapse' data-object='megamenu_family_4subfamily_0' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>Canales de atención</strong></a>
+ <ul data-objected='megamenu_family_4subfamily_0' class='panel-collapse' id='megamenu_family_4subfamily_0'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >Canales de atención</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock101178 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces101178">
+                                            <a class=""  href="https://www.cali.gov.co/publicaciones/136949/canales-de-atencion-al-ciudadano/" title="Enlace a Canales de atención al ciudadano">Canales de atención al ciudadano</a>
+                                                <a class="" target="_blank" href="http://www.cali.gov.co/chat/soporte/" title="Enlace a Chat">Chat</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/43/oficina_de_atencin_al_ciudadano/" title="Enlace a Formulario para solicitudes, peticiones, quejas, reclamos o denuncias">Formulario para solicitudes, peticiones, quejas, reclamos o denuncias</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/46368/consulte_el_estado_de_su_solicitud/" title="Enlace a Estado de su solicitud">Estado de su solicitud</a>
+                                                <a class=""  href="https://www.cali.gov.co/directorio/" title="Enlace a Directorio de información de servidores públicos y contratistas">Directorio de información de servidores públicos y contratistas</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/103935/percepcion-del-usuario/" title="Enlace a Percepción del usuario">Percepción del usuario</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/47110/las_notificaciones_judiciales_se_realizan_va_electrnica/" title="Enlace a Notificaciones Judiciales">Notificaciones Judiciales</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div><div rel='enlace'  class='col-md-4' id='accordion4_1'>
+<a class='collapseMenu' data-parent='#accordion4_1' data-toggle='collapse' data-object='megamenu_family_4subfamily_1' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>Información de interés</strong></a>
+ <ul data-objected='megamenu_family_4subfamily_1' class='panel-collapse' id='megamenu_family_4subfamily_1'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >Información de interés</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock200026 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces200026">
+                                            <a class="" target="_blank" href="https://www.youtube.com/embed/KL3xW2e3cGg" title="Enlace a Ayudas para navegar en el sitio">Ayudas para navegar en el sitio</a>
+                                                <a class=""  href="https://www.cali.gov.co/calendario/" title="Enlace a Calendario de actividades">Calendario de actividades</a>
+                                                <a class=""  href="https://www.cali.gov.co/glosario/" title="Enlace a Glosario">Glosario</a>
+                                                <a class=""  href="https://www.cali.gov.co/preguntas-frecuentes/" title="Enlace a Preguntas y respuestas">Preguntas y respuestas</a>
+                                                <a class="" target="_blank" href="https://www.cali.gov.co/aplicaciones/boletin_publico/" title="Enlace a Boletín oficial">Boletín oficial</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/104759/consulta_de_decretos/" title="Enlace a Consulta de decretos">Consulta de decretos</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/45720/notificaciones_por_aviso/" title="Enlace a Avisos, notificaciones y citaciones">Avisos, notificaciones y citaciones</a>
+                                                <a class="" target="_blank" href="https://www.cnsc.gov.co/" title="Enlace a Oferta de empleos">Oferta de empleos</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/51963/la_carta_de_trato_digno_al_ciudadano_documento_sobre_derechos_y_deberes_del_municipio/" title="Enlace a Carta del trato digno al ciudadano">Carta del trato digno al ciudadano</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/110991/pico-y-placa/" title="Enlace a Pico y placa">Pico y placa</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/135081/centros-de-administracion-local-integrada-cali/" title="Enlace a Centros de Administración Local Integrada (CALI)">Centros de Administración Local Integrada (CALI)</a>
+                                                <a class=""  href="http://datos.cali.gov.co/" title="Enlace a Datos abiertos">Datos abiertos</a>
+                                                <a class=""  href="http://www.cali.gov.co/subscribirse" title="Enlace a Suscripción a servicios de información">Suscripción a servicios de información</a>
+                                                <a class=""  href="chttps://www.cali.gov.co/citas/" title="Enlace a Persuasivo te agenda">Persuasivo te agenda</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div><div rel='enlace'  class='col-md-4' id='accordion4_2'>
+<a class='collapseMenu' data-parent='#accordion4_2' data-toggle='collapse' data-object='megamenu_family_4subfamily_2' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>Participación ciudadana</strong></a>
+ <ul data-objected='megamenu_family_4subfamily_2' class='panel-collapse' id='megamenu_family_4subfamily_2'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >Participación ciudadana</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock200132 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces200132">
+                                            <a class=""  href="https://www.cali.gov.co/publicaciones/133015/espacios-e-instancias-de-participacion-ciudadana-de-santiago-de-cali-distrito-especial/" title="Enlace a Instancias de participación ciudadana">Instancias de participación ciudadana</a>
+                                                <a class=""  href="https://www.cali.gov.co/foros/" title="Enlace a Foros">Foros</a>
+                                                <a class=""  href="https://www.cali.gov.co/encuestas/" title="Enlace a Encuestas">Encuestas</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div><div  class='col-md-4'><a href='#' accesskey=''><strong>&nbsp;Líneas de emergencia&nbsp;</strong></a></div><div  class='col-md-4 text-center' id='accordion4_4'> <div class='bloqueZona6  tipoDisplay'>
+        <div class="tabla1 tablaBloque200965 separador "
+             style=".">
+                        <div class="contenido1">
+                <style>
+.separador span {
+    width: 33.3%;
+}
+</style>
+<p><span><img alt="Icono Menú 1" id="134847" src="https://www.cali.gov.co/info/principal/media/galeria134847.png" style="height:35px; width:35px" title="Icono Menú 1" /><strong>Polic&iacute;a</strong>112</span> <span><img alt="Icono Menú 2" id="134848" src="https://www.cali.gov.co/info/principal/media/galeria134848.png" style="height:35px; width:35px" title="Icono Menú 2" /><strong>Bomberos</strong>119</span> <span><img alt="Icono Menú 5" id="134851" src="https://www.cali.gov.co/info/principal/media/galeria134851.png" style="height:35px; width:35px" title="Icono Menú 5" /><strong>Tr&aacute;nsito</strong>127</span></p>            </div>
+        </div>
+
+        </div> </div>                                            </div>
+                                                                                                                    </div>
+                                                                    </div>
+                                                            </li>
+                                                               <li id="boton376-5"  data-accordion="#accordion" class="dropdown dropdown-accordion ">
+                                   <a href="#"  class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" title="Trámites y servicios. Acceso Rápido:3." accesskey="3">
+                                       Trámites y servicios                                   </a>
+                                                                   <div class="dropdown-menu">
+                                                                        <div class="row megamenuContenedorGeneral">
+                                                                                    <div class="row megamenuContenedorPrincipal col-md-12">
+                                                <div  class='col-md-6 impuestos icon'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=56' accesskey=''><strong>&nbsp;Impuestos&nbsp;</strong></a></div><div  class='col-md-6 ambiente icon'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=53' accesskey=''><strong>&nbsp;Ambiente&nbsp;</strong></a></div><div  class='col-md-6 comercio icon'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=60' accesskey=''><strong>&nbsp;Comercio&nbsp;</strong></a></div><div  class='col-md-6 cultura icon'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=78' accesskey=''><strong>&nbsp;Cultura&nbsp;</strong></a></div><div  class='col-md-6 deporte icon'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=57' accesskey=''><strong>&nbsp;Deporte&nbsp;</strong></a></div><div  class='col-md-6 educacion icon'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=58' accesskey=''><strong>&nbsp;Educación&nbsp;</strong></a></div><div  class='col-md-6 movilidad icon'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=51' accesskey=''><strong>&nbsp;Movilidad&nbsp;</strong></a></div><div  class='col-md-6 salud icon'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=52' accesskey=''><strong>&nbsp;Salud&nbsp;</strong></a></div><div  class='col-md-6 icon servicios'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=59' accesskey=''><strong>&nbsp;Servicios públicos&nbsp;</strong></a></div><div  class='col-md-6 icon social'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=79' accesskey=''><strong>&nbsp;Social&nbsp;</strong></a></div><div  class='col-md-6 icon subsidios'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=54' accesskey=''><strong>&nbsp;Subsidios&nbsp;</strong></a></div><div  class='col-md-6 icon turismo'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=55' accesskey=''><strong>&nbsp;Turismo y arte&nbsp;</strong></a></div><div  class='col-md-6 icon urbanismo'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=50' accesskey=''><strong>&nbsp;Urbanismo&nbsp;</strong></a></div><div  class='col-md-6 icon vivienda'><a href='https://www.cali.gov.co/tramites/tema=5&subtema=49' accesskey=''><strong>&nbsp;Vivienda&nbsp;</strong></a></div><div  class='col-md-6 icon video'><a href='https://www.cali.gov.co/publicaciones/143647/consulta-y-accede-a-los-tramites-y-servicios-de-la-alcaldia-de-santiago-de-cali/' accesskey=''><strong>&nbsp;Videos Tutoriales&nbsp;</strong></a></div><div  class='col-md-6 icon commenting'><a href='https://bit.ly/32QQEi8' accesskey=''><strong>&nbsp;Encuesta trámite más complejo&nbsp;</strong></a></div>                                            </div>
+                                                                                                                    </div>
+                                                                    </div>
+                                                            </li>
+                                                               <li id="boton376-6"  data-accordion="#accordion" class="dropdown dropdown-accordion ">
+                                   <a href="#"  class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" title="Organismos. Acceso Rápido:4." accesskey="4">
+                                       Organismos                                   </a>
+                                                                   <div class="dropdown-menu">
+                                                                        <div class="row megamenuContenedorGeneral">
+                                                                                    <div class="row megamenuContenedorPrincipal col-md-12">
+                                                <div rel='enlace'  class='col-md-3' id='accordion6_0'>
+<a class='collapseMenu' data-parent='#accordion6_0' data-toggle='collapse' data-object='megamenu_family_6subfamily_0' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>Secretarías</strong></a>
+ <ul data-objected='megamenu_family_6subfamily_0' class='panel-collapse' id='megamenu_family_6subfamily_0'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >Secretarías</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock204527 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces204527">
+                                            <a class=""  href="https://www.cali.gov.co/bienestar/" title="Enlace a Bienestar Social">Bienestar Social</a>
+                                                <a class=""  href="https://www.cali.gov.co/cultura/" title="Enlace a Cultura">Cultura</a>
+                                                <a class=""  href="https://www.cali.gov.co/deporte/" title="Enlace a Deporte y la Recreación">Deporte y la Recreación</a>
+                                                <a class=""  href="https://www.cali.gov.co/desarrolloeconomico/" title="Enlace a Desarrollo Económico">Desarrollo Económico</a>
+                                                <a class=""  href="https://www.cali.gov.co/participacion/" title="Enlace a Desarrollo Territorial y Participación Ciudadana">Desarrollo Territorial y Participación Ciudadana</a>
+                                                <a class=""  href="https://www.cali.gov.co/educacion/" title="Enlace a Educación">Educación</a>
+                                                <a class=""  href="https://www.cali.gov.co/gestiondelriesgo/" title="Enlace a Gestión del Riesgo">Gestión del Riesgo</a>
+                                                <a class=""  href="https://www.cali.gov.co/gobierno/" title="Enlace a Gobierno">Gobierno</a>
+                                                <a class=""  href="https://www.cali.gov.co/infraestructura" title="Enlace a Infraestructura">Infraestructura</a>
+                                                <a class=""  href="https://www.cali.gov.co/movilidad/" title="Enlace a Movilidad">Movilidad</a>
+                                                <a class=""  href="https://www.cali.gov.co/pazycultura/" title="Enlace a Paz y Cultura Ciudadana">Paz y Cultura Ciudadana</a>
+                                                <a class=""  href="https://www.cali.gov.co/salud/" title="Enlace a Salud Pública">Salud Pública</a>
+                                                <a class=""  href="https://www.cali.gov.co/seguridad/" title="Enlace a Seguridad y Justicia">Seguridad y Justicia</a>
+                                                <a class=""  href="https://www.cali.gov.co/turismo/" title="Enlace a Turismo">Turismo</a>
+                                                <a class=""  href="https://www.cali.gov.co/vivienda/" title="Enlace a Vivienda Social y Hábitat">Vivienda Social y Hábitat</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div><div rel='enlace'  class='col-md-3' id='accordion6_1'>
+<a class='collapseMenu' data-parent='#accordion6_1' data-toggle='collapse' data-object='megamenu_family_6subfamily_1' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>Departamentos administrativos</strong></a>
+ <ul data-objected='megamenu_family_6subfamily_1' class='panel-collapse' id='megamenu_family_6subfamily_1'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >Departamentos administrativos</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock204536 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces204536">
+                                            <a class=""  href="https://www.cali.gov.co/contratacion/" title="Enlace a Contratación Pública">Contratación Pública</a>
+                                                <a class=""  href="https://www.cali.gov.co/disciplinario/" title="Enlace a Control Disciplinario Interno">Control Disciplinario Interno</a>
+                                                <a class=""  href="https://www.cali.gov.co/cinterno/" title="Enlace a Control Interno">Control Interno</a>
+                                                <a class=""  href="https://www.cali.gov.co/desarrolloinstitucional/" title="Enlace a Desarrollo e Innovación Institucional">Desarrollo e Innovación Institucional</a>
+                                                <a class=""  href="https://www.cali.gov.co/dagma/" title="Enlace a Gestión del Medio Ambiente">Gestión del Medio Ambiente</a>
+                                                <a class=""  href="https://www.cali.gov.co/juridica/" title="Enlace a Gestión Jurídica Pública">Gestión Jurídica Pública</a>
+                                                <a class=""  href="https://www.cali.gov.co/hacienda/" title="Enlace a Hacienda Municipal">Hacienda Municipal</a>
+                                                <a class=""  href="https://www.cali.gov.co/planeacion/" title="Enlace a Planeación Municipal">Planeación Municipal</a>
+                                                <a class=""  href="https://www.cali.gov.co/tic/" title="Enlace a Tecnologías de la Información y las Comunicaciones">Tecnologías de la Información y las Comunicaciones</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div><div rel='enlace'  class='col-md-3' id='accordion6_2'>
+<a class='collapseMenu' data-parent='#accordion6_2' data-toggle='collapse' data-object='megamenu_family_6subfamily_2' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>Unidades Administrativas Especiales</strong></a>
+ <ul data-objected='megamenu_family_6subfamily_2' class='panel-collapse' id='megamenu_family_6subfamily_2'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >Unidades Administrativas Especiales</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock210494 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces210494">
+                                            <a class=""  href="https://www.cali.gov.co/bienesyservicios/" title="Enlace a Gestión de Bienes y Servicios">Gestión de Bienes y Servicios</a>
+                                                <a class=""  href="https://www.cali.gov.co/serviciospublicos/" title="Enlace a Servicios Públicos Municipales">Servicios Públicos Municipales</a>
+                                                <a class=""  href="https://www.cali.gov.co/takeshima" title="Enlace a Estudio de Takeshima">Estudio de Takeshima</a>
+                                                <a class=""  href="https://www.cali.gov.co/teatromunicipal" title="Enlace a Teatro Municipal">Teatro Municipal</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div><div rel='enlace'  class='col-md-3' id='accordion6_3'>
+<a class='collapseMenu' data-parent='#accordion6_3' data-toggle='collapse' data-object='megamenu_family_6subfamily_3' data-url='#'  href='#'>
+<span class='fa fa-chevron-right pull-right visible-xs'></span><strong>Entidades descentralizadas o adscritas</strong></a>
+ <ul data-objected='megamenu_family_6subfamily_3' class='panel-collapse' id='megamenu_family_6subfamily_3'>
+
+<li>
+<a class="megamenuPublicacionesEnlace visible-xs" data-href="#" >Entidades descentralizadas o adscritas</a>
+<div class='bloqueZona6  tipoDisplay'>        <div class="nxBlock nxBlock204545 nxBlockDesign1 nxBlockEnlaces typeList ">
+                        <div class="blockContent defaultEnlaces ">
+                <div class="constructEnlaces204545">
+                                            <a class="" target="_blank" href="http://corfecali.com.co/" title="Enlace a Corfecali">Corfecali</a>
+                                                <a class="" target="_blank" href="https://www.emcali.com.co/" title="Enlace a Emcali">Emcali</a>
+                                                <a class="" target="_blank" href="http://www.emru.gov.co/" title="Enlace a Empresa Municipal de Renovación Urbana (EMRU)">Empresa Municipal de Renovación Urbana (EMRU)</a>
+                                                <a class="" target="_blank" href="http://www.endeporte.edu.co/" title="Enlace a Escuela Nacional del Deporte">Escuela Nacional del Deporte</a>
+                                                <a class="" target="_blank" href="http://ancianatosanmiguel.com/" title="Enlace a Hospital Geriátrico y Ancianato San Miguel E.S.E.">Hospital Geriátrico y Ancianato San Miguel E.S.E.</a>
+                                                <a class="" target="_blank" href="http://www.uniajc.edu.co/" title="Enlace a Institución Universitaria Antonio José Camacho">Institución Universitaria Antonio José Camacho</a>
+                                                <a class="" target="_blank" href="http://www.institutopopulardecultura.edu.co/" title="Enlace a Instituto Popular de Cultura (IPC)">Instituto Popular de Cultura (IPC)</a>
+                                                <a class="" target="_blank" href="http://www.metrocali.gov.co/" title="Enlace a Metrocali">Metrocali</a>
+                                                <a class=""  href="https://www.cali.gov.co/publicaciones/34871/localizacin_y_telfonos_1/" title="Enlace a Empresas Sociales del Estado">Empresas Sociales del Estado</a>
+                                        </div>
+            </div>
+            <script>
+                $( function() {
+
+                                    } );
+            </script>
+        </div>
+
+        </div> 
+</li>
+</ul>
+</div>                                            </div>
+                                                                                                                    </div>
+                                                                    </div>
+                                                            </li>
+                                                           <li id="boton376-7"  data-accordion="#accordion" class="dropdown dropdown-accordion hidden">
+                                   <a href="#"  class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" title="Grupos poblacionales">
+                                       Grupos poblacionales                                   </a>
+                                                                   <div class="dropdown-menu">
+                                                                        <div class="row megamenuContenedorGeneral">
+                                                                                    <div class="row megamenuContenedorPrincipal col-md-12">
+                                                <div  class='col-md-6 ninos icon'><a href='https://www.cali.gov.co/ninos/' accesskey=''><strong>&nbsp;Niños&nbsp;</strong></a></div><div  class='col-md-6 jovenes icon'><a href='https://www.cali.gov.co/jovenes/' accesskey=''><strong>&nbsp;Jóvenes&nbsp;</strong></a></div><div  class='col-md-6 mujeres icon'><a href='https://www.cali.gov.co/mujer/' accesskey=''><strong>&nbsp;Mujeres&nbsp;</strong></a></div><div  class='col-md-6 adulto icon'><a href='https://www.cali.gov.co/adulto_mayor/' accesskey=''><strong>&nbsp;Adulto mayor&nbsp;</strong></a></div><div  class='col-md-6 capacidades icon'><a href='https://www.cali.gov.co/capacidades_diferentes/' accesskey=''><strong>&nbsp;Capacidades diferentes&nbsp;</strong></a></div><div  class='col-md-6 lgtbi icon'><a href='https://www.cali.gov.co/lgbt/' accesskey=''><strong>&nbsp;LGTBI&nbsp;</strong></a></div>                                            </div>
+                                                                                                                    </div>
+                                                                    </div>
+                                                            </li>
+                                                        <li id="boton376-8"  class=" ">
+                                <a href='https://www.cali.gov.co/publicaciones/115433/transparencia_y_acceso_a_la_informacion_publica/' title='Transparencia'>Transparencia</a>                            </li>
+                                                           <li id="boton376-9"  data-accordion="#accordion" class="dropdown dropdown-accordion search">
+                                   <a href="#"  class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" title="Buscador">
+                                       Buscador                                   </a>
+                                                                   <div class="dropdown-menu">
+                                                                        <div class="row megamenuContenedorGeneral">
+                                                                                    <div class="row megamenuContenedorPrincipal col-md-12">
+                                                <div  class='col-md-12' id='accordion9_0'> <div class='bloqueZona6  tipoDisplay'>
+        <div class="tabla1 tablaBloque100771  "
+             style=".">
+                        <div class="contenido1">
+                <form action="/buscar/" class="form-horizontal" method="get">
+        <fieldset>
+<legend>Buscador Principal</legend>
+            <label class="sr-only" for="search-box1">Buscar...</label>
+            <div class="col-md-12">
+                <div class="input-group">
+                    <input autofocus="autofocus" id="search-box1" class="form-control search-mod" placeholder="Buscar..." name="q" value="" type="search" title="buscador">
+                    <span class="input-group-btn">
+                        <button class="btn btn-primary search-btn-mod" type="submit">
+                        	<span class="fa fa-search"></span><span class="hidden">Buscar</span>
+                        </button>
+                    </span>
+                </div>
+            </div>
+        </fieldset>
+    </form>            </div>
+        </div>
+
+        </div> </div>                                            </div>
+                                                                                                                    </div>
+                                                                    </div>
+                                                            </li>
+                                            </ul>
+            </div>
+
+            <script type="text/javascript">
+                $(document).ready(function(){
+                    var estadoMenu=0;
+                    $(".dropdown").click(function(){
+                        if($(window).width() < 769 && estadoMenu==0){
+                            estadoMenu=1;
+                            $(".collapseMenu").each(function(){
+//                                $(this).addClass('fa fa-chevron-right');
+                                var listado=$(this).data('object');
+                                $("#"+listado).addClass('collapse');
+                                $(this).attr("href","#"+listado);
+                            });
+                            $(".megamenuPublicacionesEnlace").each(function(){
+                                var valorHref=$(this).data("href");
+                                $(this).prop("href",valorHref);
+                            });
+                            $('html, body').animate({
+                                scrollTop: $("#"+$(this).attr("id")).offset().top
+                            });
+                        }
+                        else if($(window).width() < 769){
+                            $('html, body').animate({
+                                scrollTop: $("#"+$(this).attr("id")).offset().top
+                            });
+                        }
+                        else if($(window).width() > 769 && estadoMenu==1){
+                            estadoMenu=0;
+                            $(".megamenuPublicacionesEnlace").each(function(){
+                                var valorHref=$(this).data("href");
+                                $(this).attr("href","#");
+                            });
+                            $(".collapseMenu").each(function(){
+                                $(this).removeClass('fa fa-chevron-right');
+                                var listado=$(this).data('object');
+                                $("#"+listado).removeClass('collapse');
+                                $(this).attr("href",$(this).data("url"));
+                            });
+
+                        }
+                    });
+
+                    $('.dropdown-accordion').on('show.bs.dropdown', function (event) {
+                        var accordion = $(this).find($(this).data('accordion'));
+                        accordion.find('.panel-collapse.in').collapse('hide');
+                    });
+
+                    $('.dropdown-accordion').on('click', 'a[data-toggle="collapse"]', function (event) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                        $($(this).data('parent')).find('.panel-collapse.in').collapse('hide');
+                        $($(this).attr('href')).collapse('show');
+                    });
+
+                                    }); // ready
+
+            </script>
+                </nav>
+        <!--        </div>-->
+        </div>
+		</nav>
+	</div>
+</div>            </div>
+        </div>
+
+        
+        <div class="tabla1 tablaBloque202750 btnPortal "
+             style=".">
+                        <div class="contenido1">
+                <span class="pull-right closeMsgOldPortal" style="cursor: pointer; padding: 8px; margin-top: -12px; margin-right: -12px;"><span class="fa fa-close"></span><span class="hide">Cerrar mensaje</span></span>
+<script>
+$(".closeMsgOldPortal").click(function(){$('.btnPortal').remove();});
+</script>
+<p><a href="http://web1.cali.gov.co/" target="_blank"><strong>Importante:</strong> Si no encuentra lo que busca,&nbsp;consulta el portal anterior.</a></p>            </div>
+        </div>
+
+        
+        <div class="tabla1 tablaBloque214621  "
+             style=".">
+                        <div class="contenido1">
+                <style>
+.megamenu .dropdown-menu li .nxBlock {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.megamenu .dropdown-menu ul {
+    padding-left: 10px;
+}
+.megamenu .dropdown-menu li a {
+    padding: 2px;
+}
+.megamenu .dropdown-menu li .defaultEnlaces a:before {
+    margin-right: 7px;
+}
+</style>            </div>
+        </div>
+
+        
+</header>
+
+<div id="main-content">
+    <div class="container">
+	    <div class="row">
+	        <div class="col-sm-9 col-xs-12">
+	            <div class="msgError">No se puede iniciar la funci&oacute;n solicitada por que los par&aacute;metros suministrados no son correctos.</div>
+	        </div>
+	        <div class="col-sm-3 col-xs-12">
+	            
+	        </div>
+	    </div>
+    </div>
+</div>
+
+<div id="footer-box">
+    
+        <div class="tabla1 tablaBloque260  "
+             style=".">
+                        <div class="contenido1">
+                <footer class="clear-fix">
+    <div class='bloqueZona3  tipoDysplay'>
+        <div class="tabla1 tablaBloque246">          
+            <div class="contenido1">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="contact col-md-8 wow fadeInUp animated">
+                            <h2 class="title-section">Contáctenos</h2>
+                            <div class="info-container col-md-6">
+                                <div class="info place">
+                                    <span>Dirección:</span> Centro Administrativo Municipal (CAM) Avenida 2 Norte #10 - 70. Cali - Valle del Cauca - Colombia.
+                                </div>
+                                <div class="info clock">
+                                    <span>Horario atención:</span> lunes a viernes de 8 am a 12 pm y de 2 pm a 5 pm.
+                                </div>
+                                <div class="info clock">
+                                     <a href= "/publicaciones/43/oficina_de_atencin_al_ciudadano/"> Atención al ciudadano </a>
+                                </div>
+                                <div class="info directory">
+                                    <a href="/directorio/">Directorio dependencias</a>
+                                </div>
+                             </div>
+                            <div class="info-container col-md-6 wow fadeInUp animated">
+                                <div class="info phone">
+                                    <span>Linea Nacional:</span> 01 8000 222 195
+                                </div>
+                                <div class="info phone">
+                                    <span>Lineas Locales:</span> 195 - (57+2) 887 9020
+                                </div>
+                                <div class="info email">
+                                    <span>Email:</span> <a href="mailto:contactenos@cali.gov.co" title="Alcaldía de Santiago de Cali">contactenos@cali.gov.co</a>
+                                </div>
+                                
+<div class="info email">
+                                    <a href="mailto:notificacionesjudiciales@cali.gov.co" title="Alcaldía de Santiago de Cali"><span>Notificaciones Judiciales:</span> notificacionesjudiciales@cali.gov.co</a>
+                                </div>
+<div class="info directory">
+                                    <span><a href="https://www.cali.gov.co/hacienda/publicaciones/159070/el-numero-de-identificacion-tributaria-de-santiago-de-cali-distrito-especial-deportivo-cultural-turistico-empresarial-y-de-servicios/" title="Alcaldía de Santiago de Cali">NIT: </span>890399011-3 </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="map col-md-4">
+                           <iframe src="https://www.google.com/maps/d/u/0/embed?mid=17sKDsua2ySZKytHFryu9L_9IgMGbOM-f" style=" width: 100%; height: 250px; border: 0;"></iframe>
+                        </div>
+
+                    </div>
+                </div>            </div>
+        </div>
+
+    </div>
+</footer>
+
+<div id="copyright">
+    <div class='bloqueZona3  tipoDysplay'>
+        <div class="tabla1 tablaBloque253">
+            
+            <div class="contenido1">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-md-6 brand">
+                            <span>Alcaldía de Santiago de Cali - Nit: 890399011-3 </span>
+                            <a href="/informatica/publicaciones/1344/polticas_seguridad_de_la_informacin/" title="Alcaldía de Santiago de Cali">Políticas de seguridad de la información y protección de datos personales</a>
+                            <span>Todos los Derechos Reservados © 2021</span>
+                        </div>
+
+                        <div class="col-md-6 socialnetworks bottom">
+                            <ul>
+                                <li>
+                                    <span class="title">Síguenos en:</span>
+                                </li>
+                                <li class="facebook">
+                                    <a href="https://www.facebook.com/AlcaldiaDeCali/" target="_blank" title="Alcaldía de Santiago de Cali">
+                                        <span class="icon fa fa-facebook"></span>
+                                        <span class="hide">Facebook</span>
+                                    </a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="https://twitter.com/alcaldiadecali" target="_blank" title="Alcaldía de Santiago de Cali">
+                                        <span class="icon fa fa-twitter"></span>
+                                        <span class="hide">twitter</span>
+                                    </a>
+                                </li>
+                                <li class="youTube">
+                                    <a href="https://www.youtube.com/user/AlcaldiadeCaliTV" target="_blank" title="Alcaldía de Santiago de Cali">
+                                        <span class="icon fa fa-youtube"></span>
+                                        <span class="hide">youtube</span>
+                                    </a>
+                                </li>     
+                                <li class="instagram">
+                                    <a href="https://www.instagram.com/alcaldiadecali/" target="_blank" title="Alcaldía de Santiago de Cali">
+                                        <span class="icon fa fa-instagram"></span>
+                                        <span class="hide">Instagram</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>            </div>
+        </div>
+                          <div class='bloqueZona3  tipoDisplay'>
+        <div class="tabla1 tablaBloque100993  "
+             style=".">
+                        <div class="contenido1">
+                <script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ ga('create', 'UA-51274521-2', 'auto');
+ ga('send', 'pageview');
+</script>            </div>
+        </div>
+
+        </div>
+    </div>
+</div>            </div>
+        </div>
+
+        
+</div>
+
+<script type="text/javascript" src="https://www.cali.gov.co/media/plugins/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://www.cali.gov.co/media/plugins/default/js/global.min.js"></script>
+<script type="text/javascript" src="https://www.cali.gov.co/media/plugins/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+<p class="versionPlatform">Versi&oacute;n 7.0.1</p><div id="logoFooter" class="text-right">
+            <a target="_blank" href="http://www.nexura.com/" class="copyright-nexura">Powered by Nexura</a>
+        </div></body>
+</html>
